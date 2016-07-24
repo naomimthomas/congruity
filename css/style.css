@@ -513,11 +513,12 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 0;
   background: rgba(0,0,0,0.5);
   max-height: 200px;
+  vertical-align: middle;
+
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner {
   display: table-cell;
   vertical-align: middle;
-  min-height: 700px;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 {
   font-size: 70px;
